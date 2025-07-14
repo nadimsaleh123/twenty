@@ -27,8 +27,19 @@
 # Installation 
 
 See:  
-🚀 [Self-hosting](https://twenty.com/developers/section/self-hosting)  
-🖥️ [Local Setup](https://twenty.com/developers/local-setup)  
+🚀 [Self-hosting](https://twenty.com/developers/section/self-hosting)
+🖥️ [Local Setup](https://twenty.com/developers/local-setup)
+
+## Quick Start
+
+```bash
+git clone …
+cd …
+npm install
+npm run dev
+```
+
+Real content/images should replace placeholders.
 
 # Does the world need another CRM?
 
